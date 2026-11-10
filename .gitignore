@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Credentials
+*.pem
+*.key
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
